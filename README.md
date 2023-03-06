@@ -1,7 +1,6 @@
 # Python Blacklist Checker
 <p>
-<br>
-<br>
+
 Compare IP Addresses in IP File and Blacklist File.
 If the IP Addresses in the IP File match the IP addresses in the Blacklist File, 
 Note them down and later on By default result.txt Or it will be saved as the File name you wrote in the part requested from you.
